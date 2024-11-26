@@ -1,12 +1,34 @@
-## Hi there 👋
+# The Yawning Portal 🌀
 
-<!--
+We build self-hosted tools for Dungeon Masters designed to work together or standalone, focusing on reliability and ease of use.
 
-**Here are some ideas to get you started:**
+## Our Projects
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📚 [wiki](https://github.com/Yawning-Portal/wiki) - Knowledge base for your world, built in Go.
+
+🐉 combat-manager - Real-time combat tracking with player views.
+
+📦 loot-generator - Treasure and reward management system.
+
+🗺️ map-tools - Battle map management with fog of war support.
+
+📜 session-notes - Campaign documentation system.
+
+## Technology
+
+- Go and Rust for performance
+- Docker for deployment
+- Modern cloud infrastructure
+- Open source
+
+## Getting Started
+
+Each repository contains its own setup instructions. All services can be deployed individually or as a complete suite using our [deployment templates](https://github.com/your-org/deployment).
+
+## Contributing
+
+We welcome contributions! Check individual repositories for specific guidelines.
+
+## License
+
+All projects are under the MIT License unless otherwise specified.
