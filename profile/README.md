@@ -23,7 +23,7 @@ We build self-hosted tools for Dungeon Masters designed to work together or stan
 
 ## Getting Started
 
-Each repository contains its own setup instructions. All services can be deployed individually or as a complete suite using our [deployment templates](https://github.com/your-org/deployment).
+Each repository contains its own setup instructions. All services can be deployed individually or as a complete suite using our [deployment templates](https://github.com/Yawning-Portal/deployment).
 
 ## Contributing
 
